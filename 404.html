@@ -452,10 +452,25 @@
                 
 
                 
-
+                <div class="info-break-policy">
+                    <i class="far fa-file-word fa-fw"></i>文章字数:&nbsp;&nbsp;
+                    26
+                </div>
                 
 
                 
+                <div class="info-break-policy">
+                    <i class="far fa-clock fa-fw"></i>阅读时长:&nbsp;&nbsp;
+                    1 分
+                </div>
+                
+
+                
+                    <div id="busuanzi_container_page_pv" class="info-break-policy">
+                        <i class="far fa-eye fa-fw"></i>阅读次数:&nbsp;&nbsp;
+                        <span id="busuanzi_value_page_pv"></span>
+                    </div>
+				
             </div>
         </div>
         <hr class="clearfix">
@@ -933,10 +948,10 @@
                    type="playlist"
                    id="503838841"
                    fixed='true'
-                   autoplay='false'
+                   autoplay='true'
                    theme='#42b983'
                    loop='all'
-                   order='random'
+                   order='list'
                    preload='auto'
                    volume='0.7'
                    list-folded='true'
@@ -956,10 +971,10 @@
                         Copyright&nbsp;&copy;
                         <span id="sitetime"></span>
                         
-                            <span id="year">
-                                2019-2022
-                            </span>
-                            
+                                <span id="year">
+                                    2022
+                                </span>
+                                
                                     <a href="/about" target="_blank">
                                         Nie Qianlong
                                     </a>
@@ -968,6 +983,11 @@
                                         target="_blank">Matery</a>
                                     <br>
                                     
+                                        &nbsp;<i class="fas fa-chart-area"></i>&nbsp;站点总字数
+                                            :&nbsp;<span class="white-color">
+                                                73
+                                            </span>
+                                            
                                                 
                                                     
                                                         
@@ -996,37 +1016,47 @@
                     </div>
                     <div class="col s12 m4 l4 social-link social-statis">
                         
-    <a href="https://github.com/blinkfox" class="tooltipped" target="_blank" data-tooltip="访问我的GitHub" data-position="top" data-delay="50">
+    <a href="https://github.com/WjNql" class="tooltipped" target="_blank" data-tooltip="访问我的GitHub" data-position="top"
+        data-delay="50">
         <i class="fab fa-github"></i>
     </a>
+    
 
+        
+            <a href="mailto:1355964897@qq.com" class="tooltipped" target="_blank" data-tooltip="邮件联系我"
+                data-position="top" data-delay="50">
+                <i class="fas fa-envelope-open"></i>
+            </a>
+            
 
+                
+                    <a href="tencent://AddContact/?fromId=50&fromSubId=1&subcmd=all&uin=1355964897"
+                        class="tooltipped" target="_blank" data-tooltip="QQ联系我: 1355964897" data-position="top"
+                        data-delay="50">
+                        <i class="fab fa-qq"></i>
+                    </a>
+                    
 
-    <a href="mailto:1181062873@qq.com" class="tooltipped" target="_blank" data-tooltip="邮件联系我" data-position="top" data-delay="50">
-        <i class="fas fa-envelope-open"></i>
-    </a>
+                        
+                            <a href="https://weibo.com/u/5385813581" class="tooltipped" target="_blank"
+                                data-tooltip="关注我的微博: 她让我叫夏狂热" data-position="top" data-delay="50">
+                                <i class="fa-brands fa-weibo"></i>
+                            </a>
+                            
 
+                                
+                                    <a href="https://www.zhihu.com/people/nie-qian-long-68" class="tooltipped"
+                                        target="_blank" data-tooltip="关注我的知乎: 聂千龙" data-position="top" data-delay="50">
+                                        <i class="fa-brands fa-zhihu"></i>
+                                    </a>
+                                    
 
-
-
-
-
-
-    <a href="tencent://AddContact/?fromId=50&fromSubId=1&subcmd=all&uin=1181062873" class="tooltipped" target="_blank" data-tooltip="QQ联系我: 1181062873" data-position="top" data-delay="50">
-        <i class="fab fa-qq"></i>
-    </a>
-
-
-
-
-
-
-
-    <a href="/atom.xml" class="tooltipped" target="_blank" data-tooltip="RSS 订阅" data-position="top" data-delay="50">
-        <i class="fas fa-rss"></i>
-    </a>
-
-
+                                        
+                                            <a href="/atom.xml" class="tooltipped" target="_blank"
+                                                data-tooltip="RSS 订阅" data-position="top" data-delay="50">
+                                                <i class="fas fa-rss"></i>
+                                            </a>
+                                            
                     </div>
                 </div>
 </footer>
@@ -1056,7 +1086,7 @@
         minutes - 0-59之间的整数，做为date对象的分钟数
         seconds - 0-59之间的整数，做为date对象的秒数
         microseconds - 0-999之间的整数，做为date对象的毫秒数 */
-        var t1 = Date.UTC(2017, 09, 11, 00, 00, 00); //北京时间2018-2-13 00:00:00
+        var t1 = Date.UTC(2021, 06, 17, 00, 00, 00); //北京时间2018-2-13 00:00:00
         var t2 = Date.UTC(todayYear, todayMonth, todayDate, todayHour, todayMinute, todaySecond);
         var diff = t2 - t1;
         var diffYears = Math.floor(diff / years);
