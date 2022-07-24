@@ -981,7 +981,7 @@ $('.bg-cover').css('background-image', 'url(/medias/banner/' + new Date().getDay
         <footer class="page-footer bg-color">
     <div class="container row center-align">
         <div class="col s12 m8 l8 copy-right">
-            Copyright&copy; 2019 洪卫. 
+            Copyright&copy; 2022 聂千龙.
 
             <br>
             <span id="sitetime"></span><span class="my-face">ღゝ◡╹)ノ♡</span>
@@ -989,30 +989,33 @@ $('.bg-cover').css('background-image', 'url(/medias/banner/' + new Date().getDay
 
             
 
-            
+                
                     
                         <span id="busuanzi_container_site_pv" style='display:none'></span>
                         总访问量: <span id="busuanzi_value_site_pv" class="white-color"></span>
-                    
-        
-                    
-                        <span id="busuanzi_container_site_uv" style='display:none'></span>
-                        人次&nbsp; | &nbsp;访客人数: <span id="busuanzi_value_site_uv" class="white-color"></span> 人
-                    
-    
-            
+                        
 
-            
-                &nbsp; | &nbsp;字数统计:&nbsp;
-                <span class="white-color">75</span> 字
-            
+                            
+                                <span id="busuanzi_container_site_uv" style='display:none'></span>
+                                人次&nbsp; | &nbsp;访客人数: <span id="busuanzi_value_site_uv" class="white-color"></span> 人
+                                
 
-            
-            <br>
+                                    
+
+                                        
+                                            &nbsp; | &nbsp;字数统计:&nbsp;
+                                            <span class="white-color">
+                                                75
+                                            </span> 字
+                                            
+
+                                                
+                                                    <br>
 
         </div>
 
         <div class="col s12 m4 l4 social-link social-statis">
+            
     <a href="https://github.com/WjNql" class="tooltipped" target="_blank" data-tooltip="访问我的GitHub" data-position="top"
         data-delay="50">
         <i class="fa fa-github"></i>
@@ -1054,7 +1057,8 @@ $('.bg-cover').css('background-image', 'url(/medias/banner/' + new Date().getDay
                                                 data-tooltip="RSS 订阅" data-position="top" data-delay="50">
                                                 <i class="fa fa-rss"></i>
                                             </a>
-                                            </div>
+                                            
+        </div>
 
     </div>
 </footer>
@@ -1086,7 +1090,7 @@ $('.bg-cover').css('background-image', 'url(/medias/banner/' + new Date().getDay
         seconds - 0-59之间的整数，做为date对象的秒数
         microseconds - 0-999之间的整数，做为date对象的毫秒数 */
 
-        var t1 = Date.UTC(2019, 08, 10, 00, 00, 00); //北京时间2019-8-1 00:00:00
+        var t1 = Date.UTC(2022, 07, 18, 00, 00, 00); //北京时间2019-8-1 00:00:00
         var t2 = Date.UTC(todayYear, todayMonth, todayDate, todayHour, todayMinute, todaySecond);
         var diff = t2 - t1;
         var diffYears = Math.floor(diff / years);
@@ -1096,15 +1100,10 @@ $('.bg-cover').css('background-image', 'url(/medias/banner/' + new Date().getDay
         var diffSeconds = Math.floor((diff - (diffYears * 365 + diffDays) * days - diffHours * hours - diffMinutes *
             minutes) / seconds);
         document.getElementById("sitetime").innerHTML = "本站已勉强运行 " + diffYears + " 年 " + diffDays + " 天 " + diffHours +
-            " 小时 " + diffMinutes + " 分钟 " + diffSeconds + " 秒" ;
+            " 小时 " + diffMinutes + " 分钟 " + diffSeconds + " 秒";
     } /*因为建站时间还没有一年，就将之注释掉了。需要的可以取消*/
     siteTime();
 </script>
-
-
-
-
-
 
         <!-- 搜索遮罩框 -->
 <div id="searchModal" class="modal">
