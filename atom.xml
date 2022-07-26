@@ -3,11 +3,11 @@
   <title>今天秃了吗？</title>
   
   <subtitle>聂千龙的博客</subtitle>
-  <link href="https://wjnql.github.io/atom.xml" rel="self"/>
+  <link href="https://nieqianlong.com/atom.xml" rel="self"/>
   
-  <link href="https://wjnql.github.io/"/>
+  <link href="https://nieqianlong.com/"/>
   <updated>2022-07-16T09:48:25.921Z</updated>
-  <id>https://wjnql.github.io/</id>
+  <id>https://nieqianlong.com/</id>
   
   <author>
     <name>Nie Qianlong</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://wjnql.github.io/2022/07/25/hello-world/"/>
-    <id>https://wjnql.github.io/2022/07/25/hello-world/</id>
+    <link href="https://nieqianlong.com/2022/07/25/hello-world/"/>
+    <id>https://nieqianlong.com/2022/07/25/hello-world/</id>
     <published>2022-07-25T10:26:40.739Z</published>
     <updated>2022-07-16T09:48:25.921Z</updated>
     
@@ -39,8 +39,8 @@
   
   <entry>
     <title>pinia</title>
-    <link href="https://wjnql.github.io/2022/07/19/pinia/"/>
-    <id>https://wjnql.github.io/2022/07/19/pinia/</id>
+    <link href="https://nieqianlong.com/2022/07/19/pinia/"/>
+    <id>https://nieqianlong.com/2022/07/19/pinia/</id>
     <published>2022-07-19T15:32:29.000Z</published>
     <updated>2022-07-19T16:45:23.957Z</updated>
     
