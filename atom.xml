@@ -6,7 +6,7 @@
   <link href="https://www.nieqianlong.cn/atom.xml" rel="self"/>
   
   <link href="https://www.nieqianlong.cn/"/>
-  <updated>2022-08-04T11:05:48.094Z</updated>
+  <updated>2022-08-04T11:09:30.161Z</updated>
   <id>https://www.nieqianlong.cn/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://www.nieqianlong.cn/archives/45babedb.html"/>
     <id>https://www.nieqianlong.cn/archives/45babedb.html</id>
     <published>2022-08-04T09:54:46.000Z</published>
-    <updated>2022-08-04T11:05:48.094Z</updated>
+    <updated>2022-08-04T11:09:30.161Z</updated>
     
     
     <summary type="html">学习与测试Markdown语法</summary>
@@ -31,7 +31,7 @@
     <category term="测试" scheme="https://www.nieqianlong.cn/categories/%E6%B5%8B%E8%AF%95/"/>
     
     
-    <category term="-测试 -Markdown" scheme="https://www.nieqianlong.cn/tags/%E6%B5%8B%E8%AF%95-Markdown/"/>
+    <category term="Markdown" scheme="https://www.nieqianlong.cn/tags/Markdown/"/>
     
   </entry>
   
