@@ -83,15 +83,6 @@
   </url>
   
   <url>
-    <loc>https://nieqianlong.cn/archives/index.html</loc>
-    
-    <lastmod>2020-07-01</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://nieqianlong.cn/galleries/index.html</loc>
     
     <lastmod>2020-07-01</lastmod>
@@ -101,7 +92,7 @@
   </url>
   
   <url>
-    <loc>https://nieqianlong.cn/galleries/%E8%83%8C%E6%99%AF%E5%9B%BE%E7%89%873/index.html</loc>
+    <loc>https://nieqianlong.cn/archives/index.html</loc>
     
     <lastmod>2020-07-01</lastmod>
     
@@ -111,6 +102,15 @@
   
   <url>
     <loc>https://nieqianlong.cn/galleries/%E8%83%8C%E6%99%AF%E5%9B%BE%E7%89%874/index.html</loc>
+    
+    <lastmod>2020-07-01</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://nieqianlong.cn/galleries/%E8%83%8C%E6%99%AF%E5%9B%BE%E7%89%873/index.html</loc>
     
     <lastmod>2020-07-01</lastmod>
     
