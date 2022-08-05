@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>Dos命令学习</title>
+      <link href="/archives/45babedb.html"/>
+      <url>/archives/45babedb.html</url>
+      
+        <content type="html"><![CDATA[<h1 id="打开CMD的方式"><a href="#打开CMD的方式" class="headerlink" title="打开CMD的方式"></a>打开CMD的方式</h1><ol><li>开始 + 系统 + 命令提示符</li><li>Win键 + R 输入cmd打开控制台（推荐）</li><li>在任意文件夹下，按住shift键 + 鼠标右键，在此处打开命令窗口</li><li>资源管理器的地址导航栏前面加上cmd路径</li></ol><p>管理员方式运行：选择以管理员方式运行</p><h1 id="常用的Dos命令："><a href="#常用的Dos命令：" class="headerlink" title="常用的Dos命令："></a>常用的Dos命令：</h1><figure class="highlight bash"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br><span class="line">30</span><br><span class="line">31</span><br><span class="line">32</span><br><span class="line">33</span><br><span class="line">34</span><br><span class="line">35</span><br><span class="line">36</span><br><span class="line">37</span><br><span class="line">38</span><br><span class="line">39</span><br><span class="line">40</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment"># 盘符切换</span></span><br><span class="line">C:</span><br><span class="line">D:</span><br><span class="line">...</span><br><span class="line"><span class="comment"># 查看当前目录下的所有文件</span></span><br><span class="line"><span class="built_in">dir</span></span><br><span class="line">D:\&gt;<span class="built_in">dir</span> <span class="comment"># 查看D盘下所有文件</span></span><br><span class="line"><span class="comment"># 切换目录 </span></span><br><span class="line"><span class="built_in">cd</span> <span class="comment"># change directory</span></span><br><span class="line"><span class="comment">## 跨盘符</span></span><br><span class="line">E:\&gt;<span class="built_in">cd</span> /d f: <span class="comment">#在E盘下切换到F盘</span></span><br><span class="line">F:\&gt;<span class="built_in">cd</span> /d E:\IDE <span class="comment">#在F盘下切换到E盘的IDE目录</span></span><br><span class="line"><span class="comment">## 同一盘符下</span></span><br><span class="line">E:\&gt;<span class="built_in">cd</span> IDE <span class="comment"># 打开E盘吓的IDE目录</span></span><br><span class="line"><span class="comment">## 返回上一级</span></span><br><span class="line"><span class="built_in">cd</span> ..</span><br><span class="line"><span class="comment"># 清理屏幕</span></span><br><span class="line">cls <span class="comment"># clear screen</span></span><br><span class="line"><span class="comment"># 退出终端</span></span><br><span class="line"><span class="built_in">exit</span></span><br><span class="line"><span class="comment"># 查看电脑ip</span></span><br><span class="line">ipconfig</span><br><span class="line"><span class="comment"># 打开应用</span></span><br><span class="line"><span class="comment">##计算器</span></span><br><span class="line">calc</span><br><span class="line"><span class="comment">##画图</span></span><br><span class="line">mspaint</span><br><span class="line"><span class="comment">##记事本</span></span><br><span class="line">notpad</span><br><span class="line"><span class="comment">#ping 命令</span></span><br><span class="line">ping www.baidu.com</span><br><span class="line"><span class="comment">#文件操作命令</span></span><br><span class="line"><span class="comment">## 创建目录</span></span><br><span class="line">md 目录名</span><br><span class="line"><span class="comment">## 删除目录</span></span><br><span class="line">rd 目录名</span><br><span class="line"><span class="comment">## 创建文件</span></span><br><span class="line"><span class="built_in">cd</span>&gt; 文件名</span><br><span class="line"><span class="comment">## 删除文件</span></span><br><span class="line">del 文件名</span><br></pre></td></tr></tbody></table></figure>]]></content>
+      
+      
+      <categories>
+          
+          <category> 学习 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Dos </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Markdown测试</title>
       <link href="/archives/45babedb.html"/>
       <url>/archives/45babedb.html</url>
