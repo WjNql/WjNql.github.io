@@ -6,7 +6,7 @@
   <link href="https://www.nieqianlong.cn/atom.xml" rel="self"/>
   
   <link href="https://www.nieqianlong.cn/"/>
-  <updated>2022-08-05T03:14:56.630Z</updated>
+  <updated>2022-08-05T16:06:40.956Z</updated>
   <id>https://www.nieqianlong.cn/</id>
   
   <author>
@@ -17,11 +17,30 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>Java学习</title>
+    <link href="https://www.nieqianlong.cn/archives/8df0ec14.html"/>
+    <id>https://www.nieqianlong.cn/archives/8df0ec14.html</id>
+    <published>2022-08-05T09:33:26.000Z</published>
+    <updated>2022-08-05T16:06:40.956Z</updated>
+    
+    
+    <summary type="html">Java学习笔记</summary>
+    
+    
+    
+    <category term="学习" scheme="https://www.nieqianlong.cn/categories/%E5%AD%A6%E4%B9%A0/"/>
+    
+    
+    <category term="Java" scheme="https://www.nieqianlong.cn/tags/Java/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Dos命令学习</title>
     <link href="https://www.nieqianlong.cn/archives/4d22d848.html"/>
     <id>https://www.nieqianlong.cn/archives/4d22d848.html</id>
     <published>2022-08-05T02:42:29.000Z</published>
-    <updated>2022-08-05T03:14:56.630Z</updated>
+    <updated>2022-08-05T03:15:16.369Z</updated>
     
     
     <summary type="html">学习基本的Dos语法</summary>
@@ -70,44 +89,6 @@
     
     
     <category term="杂记" scheme="https://www.nieqianlong.cn/tags/%E6%9D%82%E8%AE%B0/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>图片</title>
-    <link href="https://www.nieqianlong.cn/archives/9900f79e.html"/>
-    <id>https://www.nieqianlong.cn/archives/9900f79e.html</id>
-    <published>2022-07-28T16:14:21.000Z</published>
-    <updated>2022-08-04T08:08:30.563Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;&lt;img</summary>
-        
-      
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>代码演示</title>
-    <link href="https://www.nieqianlong.cn/archives/be82d226.html"/>
-    <id>https://www.nieqianlong.cn/archives/be82d226.html</id>
-    <published>2022-07-28T08:32:29.000Z</published>
-    <updated>2022-08-04T08:08:30.562Z</updated>
-    
-    
-    <summary type="html">代码块演示</summary>
-    
-    
-    
-    <category term="测试" scheme="https://www.nieqianlong.cn/categories/%E6%B5%8B%E8%AF%95/"/>
-    
     
   </entry>
   
