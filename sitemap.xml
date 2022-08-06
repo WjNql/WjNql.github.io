@@ -101,7 +101,7 @@
   </url>
   
   <url>
-    <loc>https://www.nieqianlong.cn/galleries/index.html</loc>
+    <loc>https://www.nieqianlong.cn/archives/index.html</loc>
     
     <lastmod>2020-07-01</lastmod>
     
@@ -110,7 +110,7 @@
   </url>
   
   <url>
-    <loc>https://www.nieqianlong.cn/archives/index.html</loc>
+    <loc>https://www.nieqianlong.cn/galleries/index.html</loc>
     
     <lastmod>2020-07-01</lastmod>
     
@@ -146,13 +146,6 @@
 
   
   <url>
-    <loc>https://www.nieqianlong.cn/tags/Dos/</loc>
-    <lastmod>2022-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://www.nieqianlong.cn/tags/Java/</loc>
     <lastmod>2022-08-06</lastmod>
     <changefreq>weekly</changefreq>
@@ -161,6 +154,13 @@
   
   <url>
     <loc>https://www.nieqianlong.cn/tags/Markdown/</loc>
+    <lastmod>2022-08-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.nieqianlong.cn/tags/Dos/</loc>
     <lastmod>2022-08-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
