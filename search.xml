@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>数学建模学习</title>
+      <link href="/archives/ae67057d.html"/>
+      <url>/archives/ae67057d.html</url>
+      
+        <content type="html"><![CDATA[<h1 id="数学建模学习"><a href="#数学建模学习" class="headerlink" title="数学建模学习"></a>数学建模学习</h1><ul><li><a href="(https://www.bilibili.com/video/BV1kC4y1a7Ee?p=1&amp;vd_source=605fdf76b89347cc08747ed724ad5651)">学习视频资源</a></li><li>观看指南：<br>p1——p2基础<br>p3——p36算法<br>p37——56建模（MATLAB）<br>p57——65写作<br>p66——69，p81——83，p108——111获奖指南总结性的东西<br>p70——80国赛<br>p84——107美赛<br>p112——120实战</li></ul><h1 id="数学建模基础入门与组队策略"><a href="#数学建模基础入门与组队策略" class="headerlink" title="数学建模基础入门与组队策略"></a>数学建模基础入门与组队策略</h1><h2 id="数学建模的分类"><a href="#数学建模的分类" class="headerlink" title="数学建模的分类"></a>数学建模的分类</h2><ol><li>按所用数学知识分类：</li></ol><ul><li>初等模型、几何模型、微积分模型、微分方程模型、图论模型、概率统计模型、规划论模型等。</li></ul><ol start="2"><li>按所解决的问题领域分类：</li></ol><ul><li>物理模型：自然科学领域内的问题。</li><li>非物理模型：经济模型、交通模型、人口模型、生态模型、环境模型、医学模型、社会学模型。</li></ul><ol start="3"><li>按所建模目的分类：</li></ol><ul><li>描述模型、分析模型、预报模型、优化模型、决策模型、控制模型等。</li></ul><ol start="4"><li>按模型的表现特性分类：</li></ol><ul><li>确定模型、随机模型；静态模型、动态模型、离散模型、连续模型</li></ul><h2 id="数学模型有哪些模块？"><a href="#数学模型有哪些模块？" class="headerlink" title="数学模型有哪些模块？"></a>数学模型有哪些模块？</h2><h3 id="数学建模的一般步骤"><a href="#数学建模的一般步骤" class="headerlink" title="数学建模的一般步骤"></a>数学建模的一般步骤</h3><h4 id="1、模型假设"><a href="#1、模型假设" class="headerlink" title="1、模型假设"></a>1、模型假设</h4><blockquote><p>针对问题特点和建模目的作出合理的、简化的假设</p></blockquote><p>在合理和简化之中作出折中</p><h4 id="2、建立模型"><a href="#2、建立模型" class="headerlink" title="2、建立模型"></a>2、建立模型</h4><blockquote><p>用数学的语言、符号描述问题</p><p>发挥想象力</p></blockquote><p>尽量采用简单的数学工具</p><p><img src="https://s2.loli.net/2022/08/07/GOgQestmKZHoX4i.png" alt="数学建模全过程"></p><ul><li><strong>表述（问题重述）</strong>：根据建模目的和信息将实际问题“翻译”成数学问题</li></ul><p>【注意】问题重述不是简单的将原问题复制粘贴，要将现实世界的问题通过表述归纳的方法利用数学公式或算法建立一定的数学模型</p><ul><li><strong>求解</strong>：选择适当的数学方法利用软件对数学模型进行求解</li><li><strong>解释</strong>：将数学语言表述的解答“翻译”回实际对象（结果的好坏、得到什么信息、浅层？深层？）</li><li><strong>验证</strong>：用现实对象的信息检验得到的解答（以此来检验该模型是否准确）</li></ul><h2 id="完整的数学建模论文的要素"><a href="#完整的数学建模论文的要素" class="headerlink" title="完整的数学建模论文的要素"></a>完整的数学建模论文的要素</h2><p><img src="https://s2.loli.net/2022/08/07/CQx5GbcifyHDmrU.png" alt="完整的数学建模论文的要素"></p><ul><li><strong>题目</strong>：点睛之笔</li><li><strong>摘要、关键词（关键）</strong>：整个评审的关键，要传递出基本信息</li><li><strong>问题重述</strong>：用自己的语言，将题目中的问题转述称数学语言</li><li><strong>问题假设</strong>：要对模型作出合理的假设或对全文作出一个合理假设</li><li><strong>问题分析</strong>：针对这个问题，你打算怎么做、怎么解？用什么模型来求解？你的思路是什么？</li><li><strong>符号说明</strong>：常用符号为了避免冗余可以将其意写在符号说明中</li><li><strong>模型建立</strong>：通过数学符号和公式建立一个实现某一功能的数学模型</li><li><strong>模型求解</strong>：利用计算软件等对模型求解的过程</li><li><strong>模型优缺点评价</strong>：评价模型优劣，有哪些优缺点，是否经得起考验</li><li><strong>参考文献</strong>：<a href="(https://baike.baidu.com/item/%E5%8F%82%E8%80%83%E6%96%87%E7%8C%AE%E6%A0%87%E5%87%86%E6%A0%BC%E5%BC%8F/15571284?fr=aladdin)">参照标准文献写作格式</a></li></ul><h2 id="分模块学习"><a href="#分模块学习" class="headerlink" title="分模块学习"></a>分模块学习</h2><h3 id="题目备战："><a href="#题目备战：" class="headerlink" title="题目备战："></a>题目备战：</h3><ul><li>掌握固定模式即可</li><li>基于____模型的____研究与分析</li><li>也可以使用比较诙谐可爱的题目（正经）</li></ul><h3 id="摘要备战："><a href="#摘要备战：" class="headerlink" title="摘要备战："></a>摘要备战：</h3><ul><li>总结归纳能力，通过看高水平论文或优秀论文掌握</li><li>切忌大段描述，一般摘要不超过整个页面的四分之三</li></ul><h3 id="问题重述："><a href="#问题重述：" class="headerlink" title="问题重述："></a>问题重述：</h3><ul><li>切忌直接抄袭问题，对描述简短的拆建，描述复杂的精炼</li></ul><h3 id="问题假设："><a href="#问题假设：" class="headerlink" title="问题假设："></a>问题假设：</h3><ul><li>明确假设点是关键，只要对我们的结果有影响，但又是小概率事件；或者对结果有影响，难以计算获取这类的</li><li>考察对问题的理解以及对模型的适用性能力的评价</li></ul><h3 id="问题分析："><a href="#问题分析：" class="headerlink" title="问题分析："></a>问题分析：</h3><ul><li>动脑能力是关键，现将问题进行定性，然后说明如何求解这类问题</li><li>考察对问题的求解能力，不要求写具体的模型和算法，而是要提供一个思路</li><li>写思路：分析问题、拆解问题、匹配模型</li><li>最好做一个流程图，能更加直观地显示</li></ul><h3 id="符号说明："><a href="#符号说明：" class="headerlink" title="符号说明："></a>符号说明：</h3><ul><li>文中出现的符号均需说清楚，用希腊字母</li></ul><h3 id="模型建立："><a href="#模型建立：" class="headerlink" title="模型建立："></a>模型建立：</h3><ul><li>将常见模型进行归纳整理，形成算法库</li></ul><h3 id="模型求解："><a href="#模型求解：" class="headerlink" title="模型求解："></a>模型求解：</h3><ul><li>对编程语言熟练掌握</li></ul><h3 id="模型优缺点评价："><a href="#模型优缺点评价：" class="headerlink" title="模型优缺点评价："></a>模型优缺点评价：</h3><ul><li>对模型的不足提前掌握，并应用于不足阐述</li></ul><h3 id="参考文献："><a href="#参考文献：" class="headerlink" title="参考文献："></a>参考文献：</h3><ul><li>按标准格式书写</li></ul><h2 id="数学建模备战应该准备什么？"><a href="#数学建模备战应该准备什么？" class="headerlink" title="数学建模备战应该准备什么？"></a>数学建模备战应该准备什么？</h2><ul><li><p>（1）必须找好两个靠谱的队友，定期组织研讨和交流</p></li><li><p>（2）必须每三天看一篇优秀的数模论文，重点看摘要和问题分析及建模过程</p></li><li><p>（3）必须明确三人的分工，确保写作、建模、编程 团队都具备</p></li><li><p>（4）必须清晰地明白建模各部分到底应该写什么</p></li><li><p>（5）必须对所有常见算法进行系统的学习，明确算法用途和实现过程</p></li><li><p>备战时间建议：</p></li><li><p>每天拿出两个小时学习数学建模：按照算法、编程、写作、排版的顺序进行</p></li><li><p>算法：课程+《数学建模书籍（司守奎）》，编程（Matlab自学一本通2018版本即可），写作（整理优秀论文对语言进行学习），排版（学习LATEX软件）</p></li><li><p>每人每三天阅读完一篇获奖优秀论文，并和队友沟通分享经验</p></li><li><p>每半个月适当开一次总结会，发表自己的学习收获和下一步的工作中心</p></li><li><p>每月进行一次全真模拟，找老师进行论文评估</p></li><li><p>比赛开始后，三人应首先集中一切力量准备一套切实可行的思路，不可盲目直接建模，一旦敲定思路，论文写作成员要尽快寻找该模型所涉及到的原理知识，编程人员即使调试对应代码，建模人员要及时找出赛题与该模型的结合点</p></li><li><p>建模与论文撰写应该是同步的，队长要做好信息汇总与结果结论反馈工作，确保不会出现信息延迟等失误</p></li></ul><h1 id="线性规划模型基本原理与案例分享"><a href="#线性规划模型基本原理与案例分享" class="headerlink" title="线性规划模型基本原理与案例分享"></a>线性规划模型基本原理与案例分享</h1><h2 id="线性规划问题"><a href="#线性规划问题" class="headerlink" title="线性规划问题"></a>线性规划问题</h2>]]></content>
+      
+      
+      <categories>
+          
+          <category> 学习 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 数学建模 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Java学习</title>
       <link href="/archives/8df0ec14.html"/>
       <url>/archives/8df0ec14.html</url>
