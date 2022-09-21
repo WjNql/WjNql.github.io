@@ -171,13 +171,6 @@
   </url>
   
   <url>
-    <loc>https://www.nieqianlong.cn/tags/%E6%9D%82%E8%AE%B0/</loc>
-    <lastmod>2022-09-21</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://www.nieqianlong.cn/tags/Markdown/</loc>
     <lastmod>2022-09-21</lastmod>
     <changefreq>weekly</changefreq>
@@ -185,7 +178,7 @@
   </url>
   
   <url>
-    <loc>https://www.nieqianlong.cn/tags/Java/</loc>
+    <loc>https://www.nieqianlong.cn/tags/%E6%9D%82%E8%AE%B0/</loc>
     <lastmod>2022-09-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -193,6 +186,13 @@
   
   <url>
     <loc>https://www.nieqianlong.cn/tags/%E6%95%B0%E5%AD%A6%E5%BB%BA%E6%A8%A1/</loc>
+    <lastmod>2022-09-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.nieqianlong.cn/tags/Java/</loc>
     <lastmod>2022-09-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -215,14 +215,14 @@
   </url>
   
   <url>
-    <loc>https://www.nieqianlong.cn/categories/%E6%88%91%E7%9A%84%E6%97%A5%E5%B8%B8/</loc>
+    <loc>https://www.nieqianlong.cn/categories/%E6%B5%8B%E8%AF%95/</loc>
     <lastmod>2022-09-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://www.nieqianlong.cn/categories/%E6%B5%8B%E8%AF%95/</loc>
+    <loc>https://www.nieqianlong.cn/categories/%E6%88%91%E7%9A%84%E6%97%A5%E5%B8%B8/</loc>
     <lastmod>2022-09-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
