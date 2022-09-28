@@ -6,7 +6,7 @@
   <link href="https://www.nieqianlong.cn/atom.xml" rel="self"/>
   
   <link href="https://www.nieqianlong.cn/"/>
-  <updated>2022-09-24T03:46:10.706Z</updated>
+  <updated>2022-09-26T01:41:29.086Z</updated>
   <id>https://www.nieqianlong.cn/</id>
   
   <author>
@@ -15,6 +15,25 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>网络工程实践学习</title>
+    <link href="https://www.nieqianlong.cn/archives/6d205a87.html"/>
+    <id>https://www.nieqianlong.cn/archives/6d205a87.html</id>
+    <published>2022-09-26T00:40:59.000Z</published>
+    <updated>2022-09-26T01:41:29.086Z</updated>
+    
+    
+    <summary type="html">网络工程实践学习笔记</summary>
+    
+    
+    
+    <category term="学习" scheme="https://www.nieqianlong.cn/categories/%E5%AD%A6%E4%B9%A0/"/>
+    
+    
+    <category term="网络工程实践" scheme="https://www.nieqianlong.cn/tags/%E7%BD%91%E7%BB%9C%E5%B7%A5%E7%A8%8B%E5%AE%9E%E8%B7%B5/"/>
+    
+  </entry>
   
   <entry>
     <title>GUI编程学习</title>
@@ -40,7 +59,7 @@
     <link href="https://www.nieqianlong.cn/archives/5b5a394a.html"/>
     <id>https://www.nieqianlong.cn/archives/5b5a394a.html</id>
     <published>2022-09-08T05:58:25.000Z</published>
-    <updated>2022-09-20T02:13:28.900Z</updated>
+    <updated>2022-09-28T15:41:35.182Z</updated>
     
     
     <summary type="html">软件工程学习笔记</summary>
