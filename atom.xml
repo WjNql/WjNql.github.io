@@ -6,7 +6,7 @@
   <link href="https://www.nieqianlong.cn/atom.xml" rel="self"/>
   
   <link href="https://www.nieqianlong.cn/"/>
-  <updated>2022-10-10T06:36:19.107Z</updated>
+  <updated>2022-10-17T16:21:52.746Z</updated>
   <id>https://www.nieqianlong.cn/</id>
   
   <author>
@@ -17,11 +17,30 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>Git学习</title>
+    <link href="https://www.nieqianlong.cn/archives/607d6c62.html"/>
+    <id>https://www.nieqianlong.cn/archives/607d6c62.html</id>
+    <published>2022-10-17T09:35:59.000Z</published>
+    <updated>2022-10-17T16:21:52.746Z</updated>
+    
+    
+    <summary type="html">学习Git</summary>
+    
+    
+    
+    <category term="学习" scheme="https://www.nieqianlong.cn/categories/%E5%AD%A6%E4%B9%A0/"/>
+    
+    
+    <category term="Git" scheme="https://www.nieqianlong.cn/tags/Git/"/>
+    
+  </entry>
+  
+  <entry>
     <title>23种设计模式学习</title>
     <link href="https://www.nieqianlong.cn/archives/c1320e42.html"/>
     <id>https://www.nieqianlong.cn/archives/c1320e42.html</id>
     <published>2022-10-10T01:35:59.000Z</published>
-    <updated>2022-10-10T06:36:19.107Z</updated>
+    <updated>2022-10-17T06:55:27.806Z</updated>
     
     
     <summary type="html">学习设计模式</summary>
@@ -40,7 +59,7 @@
     <link href="https://www.nieqianlong.cn/archives/238675c9.html"/>
     <id>https://www.nieqianlong.cn/archives/238675c9.html</id>
     <published>2022-10-03T05:38:09.000Z</published>
-    <updated>2022-10-08T02:20:32.828Z</updated>
+    <updated>2022-10-21T12:50:43.806Z</updated>
     
     
     <summary type="html">学习CSS</summary>
