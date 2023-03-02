@@ -6,7 +6,7 @@
   <link href="https://www.nieqianlong.cn/atom.xml" rel="self"/>
   
   <link href="https://www.nieqianlong.cn/"/>
-  <updated>2023-02-05T01:23:17.578Z</updated>
+  <updated>2023-03-02T06:15:25.222Z</updated>
   <id>https://www.nieqianlong.cn/</id>
   
   <author>
@@ -15,6 +15,25 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>操作系统学习</title>
+    <link href="https://www.nieqianlong.cn/archives/b7473122.html"/>
+    <id>https://www.nieqianlong.cn/archives/b7473122.html</id>
+    <published>2023-03-02T05:06:47.000Z</published>
+    <updated>2023-03-02T06:15:25.222Z</updated>
+    
+    
+    <summary type="html">操作系统学习笔记</summary>
+    
+    
+    
+    <category term="学习" scheme="https://www.nieqianlong.cn/categories/%E5%AD%A6%E4%B9%A0/"/>
+    
+    
+    <category term="操作系统" scheme="https://www.nieqianlong.cn/tags/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/"/>
+    
+  </entry>
   
   <entry>
     <title>Latex学习</title>
