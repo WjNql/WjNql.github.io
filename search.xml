@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>计算机组成原理学习</title>
+      <link href="/archives/91449faf.html"/>
+      <url>/archives/91449faf.html</url>
+      
+        <content type="html"><![CDATA[<h1 id="第二章"><a href="#第二章" class="headerlink" title="第二章"></a>第二章</h1><h2 id="课后作业"><a href="#课后作业" class="headerlink" title="课后作业"></a>课后作业</h2><p>1、冯·诺依曼型计算机的主要设计思想是什么？它包括哪些主要组成成分？</p><p>​        解：冯.诺依曼型计算机的主要设计思想是:<font color="red">存储程序和程序控制</font>。冯·诺依曼型计算机用二进制表示数据和指令，将程序和数据存放到存储器中，计算机在工作时通过控制器按照指令在存储器中存放的顺序取出指令加以执行，自动完成计算任务。 主要组成部分包括：存储器、运算器、控制器、输入设备和输出设备。</p><hr><p>2、计算机的系统软件包括哪几类？说明他们的用途。</p><p>解：计算机的软件一般分为两大类：一类叫<font color="red">系统程序</font>，一类叫<font color="red">应用程序</font>。</p><ul><li>系统软件用来简化程序设计，简化使用方法，提高计算机的使用效率，发挥和扩大计算机的功能及用途。它可分为<font color="red">四类</font>：<br>（1）各种服务性程序，如诊数据程序、排错程序、练习程序等；<br>（2）语言程序，如汇编程序、编译程序、解释程序等；<br>（3）操作系统；<br>（4）数据库管理系统（DBMS）。</li><li>而应用软件是用户利用计算机来解决某些问题而编制的程序，如工程设计程序，数据加工程序，自动控制程序，企业管理程序、情报检索程序、科学计算程序等。</li></ul><hr><p>3、将下列十进制数表示成IEEE754标准的32位浮点规格化数。</p><p>(1)27/64        (2)-27/64</p><p><img src="https://s1.ax1x.com/2023/03/04/ppEZkKH.md.jpg" alt="ppEZkKH.md.jpg"></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 学习 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 计算机组成原理 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>操作系统学习</title>
       <link href="/archives/b7473122.html"/>
       <url>/archives/b7473122.html</url>

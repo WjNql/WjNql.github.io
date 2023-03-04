@@ -6,7 +6,7 @@
   <link href="https://www.nieqianlong.cn/atom.xml" rel="self"/>
   
   <link href="https://www.nieqianlong.cn/"/>
-  <updated>2023-03-02T06:19:18.590Z</updated>
+  <updated>2023-03-04T11:33:13.799Z</updated>
   <id>https://www.nieqianlong.cn/</id>
   
   <author>
@@ -15,6 +15,25 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>计算机组成原理学习</title>
+    <link href="https://www.nieqianlong.cn/archives/91449faf.html"/>
+    <id>https://www.nieqianlong.cn/archives/91449faf.html</id>
+    <published>2023-03-04T10:48:56.000Z</published>
+    <updated>2023-03-04T11:33:13.799Z</updated>
+    
+    
+    <summary type="html">计算机组成原理学习笔记</summary>
+    
+    
+    
+    <category term="学习" scheme="https://www.nieqianlong.cn/categories/%E5%AD%A6%E4%B9%A0/"/>
+    
+    
+    <category term="计算机组成原理" scheme="https://www.nieqianlong.cn/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86/"/>
+    
+  </entry>
   
   <entry>
     <title>操作系统学习</title>
